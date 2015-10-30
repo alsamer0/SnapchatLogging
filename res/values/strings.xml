@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SnapchatLogging</string>
+    <string name="info_xposed_description">Convert Snapchat Timber Log calls into Debug log calls.</string>
+
+</resources>
